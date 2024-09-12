@@ -1,0 +1,4 @@
+chattts==0.1.1
+soundfile
+pyloudnorm
+streamlit
