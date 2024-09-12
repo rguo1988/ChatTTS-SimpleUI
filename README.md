@@ -44,7 +44,7 @@
     # 以cuda 12.1版为例
     pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
     ```
-- 下载[模型库]()。若未下载，则在第一次运行时，自动联网下载
+- 下载[模型库](https://pan.quark.cn/s/be3c00672fbf)。若未下载，则在第一次运行时，自动联网下载
 - 使用 streamlit 运行 webui.py
     ```
     streamlit run webui.py
