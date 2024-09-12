@@ -4,7 +4,7 @@
 
 ## UI预览
 
-![预览图](./view/cpu_resize.png)
+![预览图](./view/cpu.png)
 
 ## 项目特色
 - 支持离线一键部署，无需配置复杂环境，无需网络环境
@@ -24,7 +24,7 @@
     - 模型库（[夸克网盘](https://pan.quark.cn/s/be3c00672fbf)），约1G
 - 解压至同一目录下，如下图
 
-![文件目录](./view/files_resize.png)
+![文件目录](./view/files.png)
 
 - 运行run.bat
     - 如浏览器未自动打开，请复制cmd中网址到浏览器地址框
