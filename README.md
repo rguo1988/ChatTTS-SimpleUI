@@ -19,9 +19,9 @@
 本项目有两种安装方式：一键部署，或自行配置python环境
 ### 一键部署（仅需三步）
 - 分别下载代码运行库包（codes_and_runtime_cpu 或 codes_and_runtime_gpu，二选一）以及ChatTTS模型库（asset）
-    - cpu版运行包（[夸克网盘](https://pan.quark.cn/s/472d4ed93a61)或Release中下载[codes_and_runtime_gpu](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/codes_and_runtime_cpu.7z)），压缩包261M，解压后1.9G
-    - gpu版运行包（[夸克网盘](https://pan.quark.cn/s/388841eeacb6)或Release中下载[codes_and_runtime_gpu](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/codes_and_runtime_gpu.7z)），压缩包1.5G，解压后5.1G。需要Nvidia显卡且显存大于4G，仅支持cudu驱动版本12.1，其他版本可参见以下python环境部署
-    - 模型库（[夸克网盘](https://pan.quark.cn/s/be3c00672fbf)或Release中下载[asset](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/asset.7z)），约1G
+    - cpu版运行包（[夸克网盘](https://pan.quark.cn/s/472d4ed93a61)，或Release中下载 [codes_and_runtime_gpu](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/codes_and_runtime_cpu.7z)），压缩包261M，解压后1.9G
+    - gpu版运行包（[夸克网盘](https://pan.quark.cn/s/388841eeacb6)，或Release中下载 [codes_and_runtime_gpu](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/codes_and_runtime_gpu.7z)），压缩包1.5G，解压后5.1G。需要Nvidia显卡且显存大于4G，仅支持cudu驱动版本12.1，其他版本可参见以下python环境部署
+    - 模型库（[夸克网盘](https://pan.quark.cn/s/be3c00672fbf)，或Release中下载 [asset](https://github.com/rguo1988/ChatTTS-SimpleUI/releases/download/v0.1/asset.7z)），约1G
 - 解压至同一目录下，如下图
 
 ![文件目录](./view/files.png)
